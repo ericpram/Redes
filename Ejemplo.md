@@ -9,7 +9,11 @@ Primero coges la [bobina de cable](https://helloauto.com/glosario/bobina) y hace
 ***
 ![Alt text](qr-proyecto.jpg "Title")
 ---
+
+```bash
 ls -lah
 cd directorio
+```
+
 ---
 https://github.com/ericpram/Redes
