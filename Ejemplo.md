@@ -8,6 +8,8 @@ Primero coges la [bobina de cable](https://helloauto.com/glosario/bobina) y hace
 | Latiguillo    |     |    X   |
 ***
 ![Alt text](qr-proyecto.jpg "Title")
+---
 ls -lah
 cd directorio
+---
 https://github.com/ericpram/Redes
